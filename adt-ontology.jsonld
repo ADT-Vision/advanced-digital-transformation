@@ -1,0 +1,26 @@
+{
+  "@context": {
+    "adt": "https://adt.vision/ontology#",
+    "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+    "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  },
+  "@type": "adt:AdvancedDigitalTransformation",
+  "rdfs:label": "Advanced Digital Transformation (ADT)",
+  "rdfs:comment": "A governance-based, automation-driven approach to digital transformation aligned with Industry 5.0 principles.",
+  "adt:hasComponent": [
+    "adt:ProcessFrameworkAutomation",
+    "adt:DigitalTransformationTransferProtocol",
+    "adt:AuthoritativeDataSource",
+    "adt:IoEDigitalFramework"
+  ],
+  "adt:enablesGovernanceCharacteristic": [
+    "adt:Transparency",
+    "adt:Accountability",
+    "adt:Alignment",
+    "adt:Instruction",
+    "adt:Coordination",
+    "adt:Evaluation",
+    "adt:LogisticsCapacity",
+    "adt:Resilience"
+  ]
+}
